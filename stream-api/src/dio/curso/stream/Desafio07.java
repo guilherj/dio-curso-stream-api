@@ -3,7 +3,7 @@ package dio.curso.stream;
 import java.util.Arrays;
 import java.util.List;
 
-public class Desafio7 {
+public class Desafio07 {
 	
 	public static void main(String[] args) {
 		// Com a ajuda da Stream API, encontre o segundo número maior da lista e exiba o resultado no console

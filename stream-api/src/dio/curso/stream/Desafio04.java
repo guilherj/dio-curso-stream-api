@@ -3,7 +3,7 @@ package dio.curso.stream;
 import java.util.Arrays;
 import java.util.List;
 
-public class Desafio4 {
+public class Desafio04 {
 	
 	public static void main(String[] args) {
 		// Utilize a Stream API para remover os valores ímpares da lista e imprima a lista resultante no console

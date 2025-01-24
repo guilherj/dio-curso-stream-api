@@ -3,7 +3,7 @@ package dio.curso.stream;
 import java.util.Arrays;
 import java.util.List;
 
-public class Desafio1 {
+public class Desafio01 {
 	
 	public static void main(String[] args) {
 		// Crie um programa que utilize a Stream API para ordenar a lista de números em ordem crescente e a exiba no console.

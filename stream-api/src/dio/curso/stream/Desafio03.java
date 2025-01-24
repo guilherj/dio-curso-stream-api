@@ -3,7 +3,7 @@ package dio.curso.stream;
 import java.util.Arrays;
 import java.util.List;
 
-public class Desafio3 {
+public class Desafio03 {
 	
 	public static void main(String[] args) {
 		

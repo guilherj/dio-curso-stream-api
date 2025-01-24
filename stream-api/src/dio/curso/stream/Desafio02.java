@@ -3,7 +3,7 @@ package dio.curso.stream;
 import java.util.Arrays;
 import java.util.List;
 
-public class Desafio2 {
+public class Desafio02 {
 	
 	public static void main(String[] args) {
 		// Utilizando a Stream API, realize a soma dos números pares da lista e exiba o resultado no console.

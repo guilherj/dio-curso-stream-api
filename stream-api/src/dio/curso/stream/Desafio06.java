@@ -3,7 +3,7 @@ package dio.curso.stream;
 import java.util.Arrays;
 import java.util.List;
 
-public class Desafio6 {
+public class Desafio06 {
 	
 	public static void main(String[] args) {
 		//Utilize a Stream API para verificar se a lista contém algum número maior que 10 e exiba o resultado no console.

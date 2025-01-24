@@ -3,7 +3,7 @@ package dio.curso.stream;
 import java.util.Arrays;
 import java.util.List;
 
-public class Desafio5 {
+public class Desafio05 {
 	
 	public static void main(String[] args) {
 		// Com a Stream API, calcule a média dos números maiores que 5 e exiba o resultado no console.
